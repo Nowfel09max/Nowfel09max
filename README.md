@@ -1,5 +1,3 @@
-
-Nowfel09max/Nowfel09max is a ✨ special .
 DDOS Attack 
 Setup on Termux 
 apt update && apt upgrade
